@@ -50,7 +50,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0on OutOfLlamasException;
+  int _counter = 0;
 
   void _incrementCounter() {
     setState(() {
